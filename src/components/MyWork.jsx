@@ -30,7 +30,7 @@ export default function MyWork () {
                                 <li>Used source-map, CSS loader, babel-loader, SASS loader in web pack which helps in debugging the code in chrome development tools and to convert one file to another file.</li>
                             </ul>
                         </Card.Text>
-                        <span className={"text"}><b>Technologies Used:</b> Javascript, React Js, React-Semantic-UI, NodeJs, edge node, SQL, Hive, Hadoop</span>
+                        <span className={"text"}><b>Technologies Used:</b> : SASS/LESS, JavaScript (ES5, ,ES6 ES7), AJAX, JSON, RESTful Web Services, Material UI, React JS, Redux, Redux Saga, Node.js, GIT Repository, Postman tool, SQL developer, Kubernetes, Nucleus, Sonar Qube</span>
                     </Card.Body>
                     <Card.Footer>
                             <span className={'text'}> To visit website
