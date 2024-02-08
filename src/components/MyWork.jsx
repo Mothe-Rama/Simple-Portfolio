@@ -8,11 +8,11 @@ export default function MyWork () {
             <div className="bg-color mtb plr">
                 <h1 className="text-center">Recent Projects</h1>
                 <Card className={'mbl'}>
-                    <Card.Header as="h3" style={{color: 'salmon'}}>CLIENT: USAA(United Services Automobile Association) <br/>
+                    <Card.Header as="h3" style={{color: '#063970'}}>CLIENT: USAA(United Services Automobile Association) <br/>
                         <span className="text"><b>Location:</b> San Antonio, TX</span><br/>
                     </Card.Header>
                     <Card.Body>
-                        <Card.Title as="h4" style={{color: 'salmon'}}>Job Role:UI Developer With React Js</Card.Title>
+                        <Card.Title as="h4" style={{color: '#063970'}}>Job Role:UI Developer With React Js</Card.Title>
                         <span className="span-text">Responsibilities: </span><br/>
                         <Card.Text>
                             <ul className='text'>
@@ -37,11 +37,11 @@ export default function MyWork () {
                 </Card>
 
                 <Card>
-                    <Card.Header as="h3" style={{color: 'salmon'}}>CLIENT: TD Ameritrade <br/>
+                    <Card.Header as="h3" style={{color: '#063970'}}>CLIENT: TD Ameritrade <br/>
                         <span className="text"><b>Location:</b> Columbia, MD</span><br/>
                     </Card.Header>
                     <Card.Body>
-                        <Card.Title as="h4" style={{color: 'salmon'}}>Job Role: Front End /UI Developer With React Js</Card.Title>
+                        <Card.Title as="h4" style={{color: '#063970'}}>Job Role: Front End /UI Developer With React Js</Card.Title>
                         <span className="span-text">Responsibilities: </span><br/>
                         <Card.Text>
                             <ul className='text'>
